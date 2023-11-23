@@ -1,0 +1,49 @@
+.start{
+    width: 30%;
+    height: 500px;
+    background-color: deeppink;
+    margin-left: 400px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: black;
+    padding-top: 20px;
+}
+#result{
+    width: 70%;
+    height: 25px;
+    background-color: rgb(173, 173, 233);
+    margin: 15px 10px 10px 42px;
+    padding: 10px 0px 0px 5px;
+    border-radius: 2px;
+}
+button{
+    height: 70px;
+    width: 70px;
+    font-size: 45px;
+    margin: 30px 20px 0px 70px;
+    background-color: v;
+    border: 2px solid deeppink;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: deeppink;
+}
+#First{
+    width: 70%;
+    height: 30px;
+    margin: 10px 0px 10px 40px;
+    margin-top: 20px;
+    
+}
+#Second{
+    width: 70%;
+    height: 30px;
+    margin-left: 40px;
+    
+}
