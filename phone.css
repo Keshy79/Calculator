@@ -7,6 +7,14 @@
         margin-top: 100px;
         border-radius: 15px;
     }
- 
+    button{
+        height: 70px;
+        width: 70px;
+        font-size: 45px;
+        margin: 20px 20px 0px 60px;
+        /* background-color: v; */
+        border: 2px solid deeppink;
+        border-radius: 10px;
+    }
 }
 
